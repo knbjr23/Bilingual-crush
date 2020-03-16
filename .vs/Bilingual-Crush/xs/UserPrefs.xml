@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{26C798F1-9D53-7B16-1432-26E7131C13D8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Screens/ScreenWin.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DragHandler.cs" Line="79" Column="46" />
+      <File FileName="Assets/Scripts/Game.cs" Line="55" Column="96" />
+      <File FileName="Assets/Scripts/UI/MainMenu.cs" Line="35" Column="37" />
+      <File FileName="Assets/Scripts/Screens/ScreenWin.cs" Line="18" Column="9" />
+      <File FileName="Assets/ScoreManager.cs" Line="7" Column="2" />
+      <File FileName="Assets/Resources/words.xml" Line="16" Column="20" />
+      <File FileName="../../Library/Unity/cache/packages/packages.unity.com/com.unity.purchasing@2.0.3/Documentation/IAP.md" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Container.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

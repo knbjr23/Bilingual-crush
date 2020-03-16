@@ -1,0 +1,413 @@
+<WordsList>
+    <Words>
+        <Word name="sprites/bikini">
+            <In>BIKINI</In>
+            <en>BIKINI</en>
+        </Word>
+        <Word name="sprites/book">
+            <In>BUKU</In>
+            <en>BOOK</en>
+        </Word>
+        <Word name="sprites/bookmark">
+            <In>BINTANG</In>
+            <en>STAR</en>
+        </Word>
+        <Word name="sprites/cat">
+            <In>KUCING</In>
+            <en>CAT</en>
+        </Word>
+        <Word name="sprites/chair">
+            <In>KURSI</In>
+            <en>CHAIR</en>
+        </Word>
+        <Word name="sprites/lion">
+            <In>SINGA</In>
+            <en>LION</en>
+        </Word>
+        <Word name="sprites/moon-phases">
+            <In>BULAN</In>
+            <en>MOON</en>
+        </Word>
+        <Word name="sprites/saturn">
+            <In>PLANIT</In>
+            <en>PLANET</en>
+        </Word>
+        <Word name="sprites/sky">
+            <In>AWAN</In>
+            <en>CLOUD</en>
+        </Word>
+        <Word name="sprites/sun">
+            <In>MATAHARI</In>
+            <en>SUN</en>
+        </Word>
+        <Word name="sprites/televisions">
+            <In>TELEVISI</In>
+            <en>TELEVISION</en>
+        </Word>
+        <Word name="sprites/wedding/diamond">
+            <In>BERLIAN</In>
+            <en>DIAMOND</en>
+        </Word>
+        <Word name="sprites/wedding/engagement-ring">
+            <In>CINCIN</In>
+            <en>RING</en>
+        </Word>
+        <Word name="sprites/wedding/hand-mirror">
+            <In>CERMIN</In>
+            <en>MIRROR</en>
+        </Word>
+        <Word name="sprites/wedding/key">
+            <In>KUNCI</In>
+            <en>KEY</en>
+        </Word>
+        <Word name="sprites/wedding/lock">
+            <In>KUNCI</In>
+            <en>LOCK</en>
+        </Word>
+        <Word name="sprites/wedding/suitcase">
+            <In>KOPER</In>
+            <en>SUITCASE</en>
+        </Word>
+        <Word name="sprites/wedding/wedding-dress">
+            <In>GAUN</In>
+            <en>DRESS</en>
+        </Word>
+        <Word name="sprites/wedding/wedding-photos">
+            <In>FOTO</In>
+            <en>PHOTO</en>
+        </Word>
+      <!--  <Word name="sprites/png/bathtub">
+            <In>BAK-MANDI</In>
+            <en>BATHTUB</en>
+        </Word>-->
+        <Word name="sprites/png/beach">
+            <In>PANTAI</In>
+            <en>BEACH</en>
+        </Word>
+        <Word name="sprites/png/plane">
+            <In>PESAWAT</In>
+            <en>PLANE</en>
+        </Word>
+       <!-- <Word name="sprites/png/sailboat">
+            <In>PERAHU-LAYER</In>
+            <en>SAILBOAT</en>
+        </Word>-->
+        <Word name="sprites/foods/apple">
+            <In>APEL</In>
+            <en>APPLE</en>
+        </Word>
+        <Word name="sprites/foods/artichoke">
+            <In>ARTICHOKE</In>
+            <en>ARTICHOKE</en>
+        </Word>
+        <Word name="sprites/foods/avocado">
+            <In>ALPUKAT</In>
+            <en>AVOCADO</en>
+        </Word>
+       <!-- <Word name="sprites/foods/bacon">
+            <In>DAGING-BABI-ASAP</In>
+            <en>BACON</en>
+        </Word>-->
+        <Word name="sprites/foods/banana">
+            <In>PISANG</In>
+            <en>BANANA</en>
+        </Word>
+        <Word name="sprites/foods/bell-pepper">
+            <In>LADA</In>
+            <en>PEPPER</en>
+        </Word>
+        <Word name="sprites/foods/bread">
+            <In>ROTI</In>
+            <en>BREAD</en>
+        </Word>
+        <Word name="sprites/foods/broccoli">
+            <In>BROKOLI</In>
+            <en>BROCCOLI</en>
+        </Word>
+        <Word name="sprites/foods/brochette">
+            <In>BROCHETTE</In>
+            <en>BROCHETTE</en>
+        </Word>
+        <Word name="sprites/foods/cake">
+            <In>KUE</In>
+            <en>CAKE</en>
+        </Word>
+        <Word name="sprites/foods/candy">
+            <In>PERMEN</In>
+            <en>CANDY</en>
+        </Word>
+        <Word name="sprites/foods/carrot">
+            <In>WORTEL</In>
+            <en>CARROT</en>
+        </Word>
+        <Word name="sprites/foods/cheese">
+            <In>KEJU</In>
+            <en>CHEESE</en>
+        </Word>
+        <Word name="sprites/foods/cherries">
+            <In>CERI</In>
+            <en>CHERRIES</en>
+        </Word>
+        <Word name="sprites/foods/chicken">
+            <In>AYAM</In>
+            <en>CHICKEN</en>
+        </Word>
+        <Word name="sprites/foods/chocolate">
+            <In>COKELAT</In>
+            <en>CHOCOLATE</en>
+        </Word>
+        <Word name="sprites/foods/cookie">
+            <In>KUE</In>
+            <en>COOKIE</en>
+        </Word>
+        <Word name="sprites/foods/corn">
+            <In>JAGUNG</In>
+            <en>CORN</en>
+        </Word>
+        <Word name="sprites/foods/crab">
+            <In>KEPITING</In>
+            <en>CRAB</en>
+        </Word>
+        <Word name="sprites/foods/croissant">
+            <In>CROISSANT</In>
+            <en>CROISSANT</en>
+        </Word>
+        <Word name="sprites/foods/doughnut">
+            <In>DONAT</In>
+            <en>DOUGHNUT</en>
+        </Word>
+        <Word name="sprites/foods/eggplant">
+            <In>TERONG</In>
+            <en>EGGPLANT</en>
+        </Word>
+        <Word name="sprites/foods/fish">
+            <In>IKAN</In>
+            <en>FISH</en>
+        </Word>
+        <Word name="sprites/foods/inied-egg">
+            <In>TELUR</In>
+            <en>EGG</en>
+        </Word>
+        <Word name="sprites/foods/grapes-1">
+            <In>ANGGUR</In>
+            <en>GRAPES</en>
+        </Word>
+       <!-- <Word name="sprites/foods/hamburger">
+            <In>ROTI-ISI-DAGING</In>
+            <en>HAMBURGER</en>
+        </Word>-->
+        <Word name="sprites/foods/honey">
+            <In>MADU</In>
+            <en>HONEY</en>
+        </Word>
+        <Word name="sprites/foods/hot-dog">
+            <In>HOT-DOG</In>
+            <en>HOT-DOG</en>
+        </Word>
+        <Word name="sprites/foods/kiwi">
+            <In>KIWI</In>
+            <en>KIWI</en>
+        </Word>
+        <Word name="sprites/foods/lemon">
+            <In>LEMON</In>
+            <en>LEMON</en>
+        </Word>
+        <Word name="sprites/foods/lettuce">
+            <In>SELADA</In>
+            <en>LETTUCE</en>
+        </Word>
+        <Word name="sprites/foods/lobster">
+            <In>LOBSTER</In>
+            <en>LOBSTER</en>
+        </Word>
+        <Word name="sprites/foods/lollipop">
+            <In>LOLLIPOP</In>
+            <en>LOLLIPOP</en>
+        </Word>
+        <Word name="sprites/foods/MUSHROOM">
+            <In>JAMUR</In>
+            <en>MUSHROOM</en>
+        </Word>
+        <Word name="sprites/foods/onion-1">
+            <In>BAWANG</In>
+            <en>ONION</en>
+        </Word>
+        <Word name="sprites/foods/orange">
+            <In>JERUK</In>
+            <en>ORANGE</en>
+        </Word>
+        <Word name="sprites/foods/peach">
+            <In>PERSIK</In>
+            <en>PEACH</en>
+        </Word>
+        <Word name="sprites/foods/pear">
+            <In>PIR</In>
+            <en>PEAR</en>
+        </Word>
+      <!--  <Word name="sprites/foods/peas">
+            <In>KACANG-POLONG</In>
+            <en>PEAS</en>
+        </Word>-->
+        <Word name="sprites/foods/pepper">
+            <In>LADA</In>
+            <en>PEPPER</en>
+        </Word>
+        <Word name="sprites/foods/pineapple">
+            <In>NANAS</In>
+            <en>PINEAPPLE</en>
+        </Word>
+        <Word name="sprites/foods/pizza">
+            <In>PIZZA</In>
+            <en>PIZZA</en>
+        </Word>
+        <Word name="sprites/foods/pumpkin">
+            <In>LABU</In>
+            <en>PUMPKIN</en>
+        </Word>
+        <Word name="sprites/foods/sandwich">
+            <In>SANDWICH</In>
+            <en>SANDWICH</en>
+        </Word>
+        <Word name="sprites/foods/shrimp">
+            <In>UDANG</In>
+            <en>SHRIMP</en>
+        </Word>
+      <!--  <Word name="sprites/foods/steak">
+            <In>DAGING-PANGGANG</In>
+            <en>STEAK</en>
+        </Word>-->
+        <Word name="sprites/foods/strawberry">
+            <In>STROBERI</In>
+            <en>STRAWBERRY</en>
+        </Word>
+        <Word name="sprites/foods/sushi">
+            <In>SUSHI</In>
+            <en>SUSHI</en>
+        </Word>
+        <Word name="sprites/foods/tomato">
+            <In>TOMAT</In>
+            <en>TOMATO</en>
+        </Word>
+        <Word name="sprites/foods/yogurt">
+            <In>YOGURT</In>
+            <en>YOGURT</en>
+        </Word>
+        <Word name="sprites/farm/axe">
+            <In>KAPAK</In>
+            <en>AXE</en>
+        </Word>
+        <Word name="sprites/farm/barn">
+            <In>LUMBUNG</In>
+            <en>BARN</en>
+        </Word>
+        <Word name="sprites/farm/bees">
+            <In>LEBAH</In>
+            <en>BEES</en>
+        </Word>
+        <Word name="sprites/farm/boot">
+            <In>SEPATU</In>
+            <en>BOOT</en>
+        </Word>
+        <Word name="sprites/farm/bucket">
+            <In>EMBER</In>
+            <en>BUCKET</en>
+        </Word>
+        <Word name="sprites/farm/cow">
+            <In>SAPI</In>
+            <en>COW</en>
+        </Word>
+        <Word name="sprites/farm/duck">
+            <In>BEBEK</In>
+            <en>DUCK</en>
+        </Word>
+        <Word name="sprites/farm/farmer">
+            <In>PETANI</In>
+            <en>FARMER</en>
+        </Word>
+       <!-- <Word name="sprites/farm/glove">
+            <In>SARUNG-TANGAN</In>
+            <en>GLOVE</en>
+        </Word>-->
+        <Word name="sprites/farm/hen">
+            <In>AYAM-HEN</In>
+            <en>HEN</en>
+        </Word>
+        <Word name="sprites/farm/mill">
+            <In>PABRIK</In>
+            <en>MILL</en>
+        </Word>
+        <Word name="sprites/farm/pig">
+            <In>BABI</In>
+            <en>PIG</en>
+        </Word>
+        <Word name="sprites/farm/plant">
+            <In>TANAMAN</In>
+            <en>PLANT</en>
+        </Word>
+        <Word name="sprites/farm/rabbit">
+            <In>KELINCI</In>
+            <en>RABBIT</en>
+        </Word>
+        <Word name="sprites/farm/sheep">
+            <In>DOMBA</In>
+            <en>SHEEP</en>
+        </Word>
+        <Word name="sprites/farm/shovel-1">
+            <In>SEKOP</In>
+            <en>SHOVEL</en>
+        </Word>
+        <Word name="sprites/farm/silo">
+            <In>SILO</In>
+            <en>SILO</en>
+        </Word>
+        <Word name="sprites/farm/tractor">
+            <In>TRAKTOR</In>
+            <en>TRACTOR</en>
+        </Word>
+        <Word name="sprites/farm/tree">
+            <In>POHON</In>
+            <en>TREE</en>
+        </Word>
+        <Word name="sprites/farm/well">
+            <In>SUMUR</In>
+            <en>WELL</en>
+        </Word>
+        <Word name="sprites/farm/wheat">
+            <In>GANDUM</In>
+            <en>WHEAT</en>
+        </Word>
+        <Word name="sprites/christmas/angel">
+            <In>MALAIKAT</In>
+            <en>ANGEL</en>
+        </Word>
+        <Word name="sprites/christmas/bell">
+            <In>BEL</In>
+            <en>BELL</en>
+        </Word>
+        <Word name="sprites/christmas/bird">
+            <In>BURUNG</In>
+            <en>BIRD</en>
+        </Word>
+        <Word name="sprites/christmas/bow">
+            <In>BUSUR</In>
+            <en>BOW</en>
+        </Word>
+        <Word name="sprites/christmas/candle">
+            <In>LILIN</In>
+            <en>CANDLE</en>
+        </Word>
+        <Word name="sprites/christmas/deer">
+            <In>RUSA</In>
+            <en>DEER</en>
+        </Word>
+        <Word name="sprites/christmas/gift">
+            <In>HADIAH</In>
+            <en>GIFT</en>
+        </Word>
+     <!--   <Word name="sprites/christmas/snowflake">
+            <In>KEPINGAN-SALJU</In>
+            <en>SNOWFLAKE</en>
+        </Word>-->
+
+    </Words>
+</WordsList>
